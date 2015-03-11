@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Unignore .gitignore
+!.gitignore
+
+# Unignore settings files
+!*.sublime-settings
