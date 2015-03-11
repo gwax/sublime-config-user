@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"COBOL Syntax",
+		"Git",
+		"LineEndings",
+		"Modific",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Sodarized"
+	]
+}
