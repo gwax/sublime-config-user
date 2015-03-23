@@ -6,8 +6,10 @@
 	[
 		"BracketHighlighter",
 		"COBOL Syntax",
+		"Dockerfile Syntax Highlighting",
 		"Git",
 		"LineEndings",
+		"Markdown Extended",
 		"Modific",
 		"Package Control",
 		"SublimeLinter",
