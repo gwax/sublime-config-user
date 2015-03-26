@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"Case Conversion",
 		"COBOL Syntax",
 		"Dockerfile Syntax Highlighting",
 		"Git",
