@@ -48,7 +48,6 @@
 		"__pycache__",
 		".pants.d"
 	],
-	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -64,7 +63,6 @@
 	[
 		"dict",
 		"dicts",
-		"waksman",
 		"str",
 		"iterable",
 		"bool",
