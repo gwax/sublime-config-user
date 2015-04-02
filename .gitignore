@@ -7,7 +7,7 @@
 # Unignore settings files
 !*.sublime-settings
 
-# Unignore modifications to add icons to Soda
-!Theme\ -\ Soda/
-!Theme\ -\ Soda/**
+# Unignore theme modifications
+!Theme*/
+!Theme*/**
 
