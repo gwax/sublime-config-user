@@ -7,7 +7,7 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Seti_monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": true,
 	"draw_white_space": "all",
