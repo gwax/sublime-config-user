@@ -1,13 +1,9 @@
 {
-	"Seti_ClosedFolder_same": true,
-	"Seti_sb_small_padding": true,
-	"Seti_sb_tree_small": true,
-	"Seti_tabs_small": true,
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": true,
 	"draw_white_space": "all",
@@ -37,8 +33,6 @@
 		"*.db",
 		"*.sublime-workspace"
 	],
-	"flatland_sidebar_tree_small": true,
-	"flatland_square_tabs": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -56,8 +50,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"ignored_words":
 	[
@@ -84,7 +78,6 @@
 	"show_line_endings": true,
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true
