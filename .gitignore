@@ -11,3 +11,6 @@
 !Theme*/
 !Theme*/**
 
+# Unignore SublimeLinter's modified tmTheme files
+!SublimeLinter/
+!SublimeLinter/*.tmTheme
