@@ -45,7 +45,8 @@
             "html (rails)": "html",
             "html 5": "html",
             "php": "html",
-            "python django": "python"
+            "python django": "python",
+            "python3": "python"
         },
         "warning_color": "DDB700",
         "wrap_find": true
