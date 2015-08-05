@@ -4,6 +4,9 @@
 # Unignore .gitignore
 !.gitignore
 
+# Unignore README
+!README*
+
 # Unignore settings files
 !*.sublime-settings
 
