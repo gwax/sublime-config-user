@@ -56,14 +56,21 @@
 	],
 	"ignored_words":
 	[
+		"bool",
 		"dict",
 		"dicts",
-		"str",
+		"hicn",
+		"hicns",
+		"iso",
 		"iterable",
-		"bool",
+		"json",
+		"orm",
 		"postgres",
+		"pylint",
 		"schema",
 		"schemas",
+		"sqlalchemy",
+		"str",
 		"testcase",
 		"timestamping"
 	],
