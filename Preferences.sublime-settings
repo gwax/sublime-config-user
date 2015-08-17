@@ -57,6 +57,7 @@
 		"node_modules",
 		"CVS"
 	],
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -95,6 +96,8 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"line_padding_bottom": -1,
+	"line_padding_top": -2,
 	"margin": 2,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
