@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Case Conversion",
 		"COBOL Syntax",
@@ -22,6 +23,7 @@
 		"Seti_UX",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-sqlint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
