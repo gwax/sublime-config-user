@@ -35,13 +35,14 @@
 	],
 	"folder_exclude_patterns":
 	[
-		".svn",
+		".cache",
 		".git",
 		".hg",
-		"CVS",
-		"__pycache__",
 		".pants.d",
-		".pids"
+		".pids",
+		".svn",
+		"__pycache__",
+		"CVS"
 	],
 	"font_options":
 	[
@@ -51,8 +52,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"ignored_words":
 	[
