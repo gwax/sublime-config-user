@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -28,6 +29,7 @@
 		"SublimeLinter-contrib-sqlint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-phplint",
 		"SublimeLinter-pylint",
 		"SublimeLinter-pyyaml",
 		"SublimeLinter-shellcheck",
