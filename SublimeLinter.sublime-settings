@@ -44,11 +44,6 @@
                 "exclude": "",
                 "excludes": []
             },
-            "sqlint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            }
         },
         "mark_style": "outline",
         "no_column_highlights_line": true,
