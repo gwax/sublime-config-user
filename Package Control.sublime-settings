@@ -36,5 +36,8 @@
 		"Theme - Afterglow",
 		"Theme - Primer",
 		"ThriftSyntax"
+	],
+	"ignore_vcs_packages":
+	[
 	]
 }
