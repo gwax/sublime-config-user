@@ -51,7 +51,8 @@
         "paths": {
             "linux": [],
             "osx": [
-                "~/.rbenv/shims"
+                "~/.rbenv/shims",
+                "~/.pyenv/shims"
             ],
             "windows": []
         },
