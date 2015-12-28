@@ -20,4 +20,4 @@
 
 # Unignore supplemental color schemes
 !Color\ Scheme/
-!Color\ Scheme/*
+!Color\ Scheme/**
