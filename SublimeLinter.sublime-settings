@@ -12,6 +12,18 @@
                 "args": [],
                 "excludes": []
             },
+            "flake8": {
+                "@disable": false,
+                "args": [],
+                "builtins": "",
+                "excludes": [],
+                "ignore": "E501,F401",
+                "jobs": "1",
+                "max-complexity": -1,
+                "max-line-length": 100,
+                "select": "",
+                "show-code": false
+            },
             "jshint": {
                 "@disable": false,
                 "args": [],
