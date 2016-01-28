@@ -54,6 +54,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"RestructuredText",
 		"Vintage"
 	],
 	"ignored_words":
