@@ -57,7 +57,9 @@
             },
             "shellcheck": {
                 "@disable": false,
-                "args": [],
+                "args": [
+                    "-x"
+                ],
                 "exclude": "",
                 "excludes": []
             }
