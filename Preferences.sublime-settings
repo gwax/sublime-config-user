@@ -7,7 +7,7 @@
 	"auto_complete_selector": "source, text, meta.tag - punctuation.definition.tag.begin",
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Material Spacegray (SL).tmTheme",
+	"color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
@@ -121,7 +121,7 @@
 	"show_line_endings": true,
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "Material Spacegray.sublime-theme",
+	"theme": "Material Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true
