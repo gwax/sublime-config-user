@@ -4,7 +4,7 @@
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Spacegray (SL).tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": true,
 	"draw_indent_guides": true,
@@ -85,6 +85,8 @@
 		"draw_active"
 	],
 	"margin": 2,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
 	"open_files_in_new_window": false,
 	"remember_full_screen": true,
 	"rulers":
@@ -99,6 +101,7 @@
 	"show_line_endings": true,
 	"spell_check": true,
 	"tab_size": 4,
+	"theme": "Material Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true
