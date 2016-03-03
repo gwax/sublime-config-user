@@ -3,6 +3,7 @@
 	[
 		"conf",
 		"pylintrc",
-		"ini"
+		"ini",
+		".coveragerc"
 	]
 }
