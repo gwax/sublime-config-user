@@ -1,6 +1,7 @@
 # Linter requirements
 
 ```bash
+brew install git
 brew install shellcheck
 npm install -g coffeelint
 npm install -g jshint

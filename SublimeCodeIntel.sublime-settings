@@ -1,0 +1,10 @@
+{
+  "codeintel_language_settings": {
+    "Python": {
+      "python": "~/.pyenv/shims/python"
+    },
+    "Python3": {
+      "python3": "~/.pyenv/shims/python3"
+    }
+  }
+}

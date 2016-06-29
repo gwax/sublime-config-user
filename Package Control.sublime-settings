@@ -29,8 +29,10 @@
 		"Materialize",
 		"Package Control",
 		"PostgreSQL Syntax Highlighting",
+		"Pretty JSON",
 		"Protocol Buffer Syntax",
 		"Python 3",
+		"requirementstxt",
 		"RestructuredText Improved",
 		"Seti_UI",
 		"Seti_UX",
@@ -44,6 +46,7 @@
 		"SublimeLinter-pyyaml",
 		"SublimeLinter-rst",
 		"SublimeLinter-shellcheck",
+		"Terraform",
 		"Theme - Afterglow",
 		"Theme - Primer",
 		"ThriftSyntax"
