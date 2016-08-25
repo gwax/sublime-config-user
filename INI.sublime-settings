@@ -4,6 +4,7 @@
 		"conf",
 		"pylintrc",
 		"ini",
-		".coveragerc"
+		".coveragerc",
+		"toml"
 	]
 }

@@ -13,6 +13,7 @@
 		"Cap'n Proto Syntax",
 		"Case Conversion",
 		"COBOL Syntax",
+		"Color Highlighter",
 		"Crontab Syntax",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
@@ -31,11 +32,14 @@
 		"PostgreSQL Syntax Highlighting",
 		"Pretty JSON",
 		"Protocol Buffer Syntax",
+		"Puppet",
 		"Python 3",
 		"requirementstxt",
 		"RestructuredText Improved",
+		"Rust",
 		"Seti_UI",
 		"Seti_UX",
+		"ShellScriptImproved",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-coffeelint",
@@ -49,6 +53,7 @@
 		"Terraform",
 		"Theme - Afterglow",
 		"Theme - Primer",
-		"ThriftSyntax"
+		"ThriftSyntax",
+		"VimL"
 	]
 }
