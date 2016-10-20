@@ -36,7 +36,12 @@
                 "excludes": [],
                 "strict": true
             },
-            "mypy": {
+            "puppet": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "puppetlint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
@@ -61,6 +66,15 @@
                 "args": [],
                 "excludes": []
             },
+            "rust": {
+                "@disable": true,
+                "args": [],
+                "crate-root": null,
+                "excludes": [],
+                "use-cargo": false,
+                "use-cargo-check": false,
+                "use-crate-root": false
+            },
             "shellcheck": {
                 "@disable": false,
                 "args": [
@@ -76,8 +90,10 @@
         "paths": {
             "linux": [],
             "osx": [
+                "~/.cargo/bin",
+                "~/.pyenv/shims",
                 "~/.rbenv/shims",
-                "~/.pyenv/shims"
+                "~/opt/bin"
             ],
             "windows": []
         },
