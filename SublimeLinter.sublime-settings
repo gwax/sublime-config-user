@@ -7,11 +7,6 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
-            "coffeelint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "flake8": {
                 "@disable": false,
                 "args": [],
@@ -36,16 +31,6 @@
                 "excludes": [],
                 "strict": true
             },
-            "puppet": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "puppetlint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "pylint": {
                 "@disable": false,
                 "args": [],
@@ -66,15 +51,6 @@
                 "args": [],
                 "excludes": []
             },
-            "rust": {
-                "@disable": true,
-                "args": [],
-                "crate-root": null,
-                "excludes": [],
-                "use-cargo": false,
-                "use-cargo-check": false,
-                "use-crate-root": false
-            },
             "shellcheck": {
                 "@disable": false,
                 "args": [
@@ -90,10 +66,8 @@
         "paths": {
             "linux": [],
             "osx": [
-                "~/.cargo/bin",
                 "~/.pyenv/shims",
                 "~/.rbenv/shims",
-                "~/opt/bin"
             ],
             "windows": []
         },

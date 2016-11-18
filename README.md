@@ -3,8 +3,8 @@
 ```bash
 brew install git
 brew install shellcheck
-npm install -g coffeelint
 npm install -g jshint
+pip install flake8
 pip install pylint
 pip3 install docutils
 pip3 install flake8

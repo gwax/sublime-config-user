@@ -1,10 +1,4 @@
 {
-	"additional_path_items":
-	[
-		"$HOME/.cargo/bin",
-		"$HOME/bin",
-		"$HOME/opt/bin"
-	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_cycle": true,
@@ -52,7 +46,6 @@
 		".cache",
 		".git",
 		".hg",
-		".pants.d",
 		".pids",
 		".svn",
 		"__pycache__",
