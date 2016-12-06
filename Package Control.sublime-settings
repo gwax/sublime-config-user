@@ -22,13 +22,16 @@
 		"INI",
 		"Kivy Language",
 		"Mako",
+		"Markdown Preview",
 		"MarkdownHighlighting",
+		"MarkdownTOC",
 		"Material Theme",
 		"Materialize",
 		"Package Control",
 		"PostgreSQL Syntax Highlighting",
 		"Pretty JSON",
 		"Protocol Buffer Syntax",
+		"Puppet",
 		"Python 3",
 		"requirementstxt",
 		"Restructured Text (RST) Snippets",
@@ -39,6 +42,7 @@
 		"ShellScriptImproved",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-mdl",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
@@ -48,6 +52,7 @@
 		"SublimeLinter-shellcheck",
 		"Theme - Afterglow",
 		"Theme - Primer",
-		"VimL"
+		"VimL",
+		"Wrap Plus"
 	]
 }

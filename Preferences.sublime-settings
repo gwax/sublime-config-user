@@ -1,4 +1,6 @@
 {
+	"WrapPlus.break_long_words": false,
+	"WrapPlus.break_on_hyphens": false,
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_cycle": true,
