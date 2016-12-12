@@ -1,0 +1,6 @@
+{
+	"enable_hdevtools": false,
+	"enable_hdocs": true,
+	"lint_check_fly": false,
+	"log": 4
+}
