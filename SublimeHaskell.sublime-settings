@@ -1,4 +1,5 @@
 {
+	"enable_auto_build": true,
 	"enable_hdevtools": false,
 	"enable_hdocs": true,
 	"lint_check_fly": false,
