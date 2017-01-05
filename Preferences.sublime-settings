@@ -37,6 +37,7 @@
 		"*.psd",
 		"*.pyc",
 		"*.pyo",
+		"*.rlib",
 		"*.sdf",
 		"*.so",
 		"*.sublime-workspace",
@@ -53,6 +54,7 @@
 		".pids",
 		".svn",
 		"__pycache__",
+		"node_modules",
 		"CVS"
 	],
 	"font_options":
